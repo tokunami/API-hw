@@ -3,13 +3,13 @@
 -----
 ## Analysis on March 22nd
 * [Temperature - Latitude] Generally, getting closer to Equator tends to be higher temperature. But high temperature(over 80F) cities were also in around 0°(Equator) to North 40°. 
-![png](pitrues/output_8_0.png)  
+![png](pictures/output_8_0.png)  
 
 * [Humidity - Latitude] There was valiability in humidity in around North 10° to 40°  
-![png](pitrues/output_9_0.png)
+![png](pictures/output_9_0.png)
 
 * [Wind Speed - Latitude] Some cities in North 10° to 60° had strong wind greater than 20 mph. On the other hand, there was no city which wind speed was greater than 20 mph in the southern hemisphere.  
-![png](pitrues/output_11_0.png)
+![png](pictures/output_11_0.png)
 
 ### Usage
 1. get an API key from [Openweathermap](https://openweathermap.org/)
@@ -710,7 +710,7 @@ plt.show()
 ```
 
 
-![png](pitrues/output_8_0.png)
+![png](pictures/output_8_0.png)
 
 
 
@@ -723,7 +723,7 @@ plt.show()
 ```
 
 
-![png](pitrues/output_9_0.png)
+![png](pictures/output_9_0.png)
 
 
 
@@ -736,7 +736,7 @@ plt.show()
 ```
 
 
-![png](pitrues/output_10_0.png)
+![png](pictures/output_10_0.png)
 
 
 
@@ -749,7 +749,7 @@ plt.show()
 ```
 
 
-![png](pitrues/output_11_0.png)
+![png](pictures/output_11_0.png)
 
 
 
@@ -762,7 +762,7 @@ plt.show()
 ```
 
 
-![png](pitrues/output_12_0.png)
+![png](pictures/output_12_0.png)
 
 
 
@@ -775,7 +775,7 @@ plt.show()
 ```
 
 
-![png](pitrues/output_13_0.png)
+![png](pictures/output_13_0.png)
 
 
 
@@ -788,7 +788,7 @@ plt.show()
 ```
 
 
-![png](pitrues/output_14_0.png)
+![png](pictures/output_14_0.png)
 
 
 
