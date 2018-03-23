@@ -13,7 +13,7 @@
 
 ### Usage
 1. get an API key from [Openweathermap](https://openweathermap.org/)
-2. Edit `config,py`
+2. Edit `config.py`
 3. run `jupytor notebook`
 ```
 $ cd WeatherPY
